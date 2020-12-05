@@ -1,6 +1,6 @@
 # MULTIPLICATION WITH N THE LARGE NUMBERS
 
-* WRITTEN by chautruonglong (mycodex).
+# WRITTEN by chautruonglong (mycodex)
 
 * EX:
 12984692376947237497923749792379472347237984729
@@ -10,7 +10,7 @@ TIMES
 612361236792179379712389213812838912838129
 TIMES........
 
-* Screenshots
+# Screenshots
   
 ![alt text](/screenshots/test%201.png)
 ![alt text](/screenshots/test%202.png)
