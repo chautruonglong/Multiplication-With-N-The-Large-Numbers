@@ -12,5 +12,5 @@ TIMES........
 
 # Screenshots
   
-![alt text](/screenshots/test%201.png)
-![alt text](/screenshots/test%202.png)
+![alt text](screenshots/test%201.png)
+![alt text](screenshots/test%202.png)
