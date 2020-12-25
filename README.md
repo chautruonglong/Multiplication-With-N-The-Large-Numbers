@@ -14,6 +14,11 @@ TIMES
 TIMES........
 
 # Screenshots
-  
-![alt text](screenshots/test1.png)
-![alt text](screenshots/test2.png)
+
+<p align="center">
+    <img src="screenshots/test1.png" alt="alt text" style="max-width:100%;">
+</p>
+
+<p align="center">
+    <img src="screenshots/test2.png" alt="alt text" style="max-width:100%;">
+</p>
